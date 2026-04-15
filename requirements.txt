@@ -1,0 +1,33 @@
+streamlit
+streamlit-pdf-viewer
+torch
+torchvision
+Pillow
+matplotlib
+requests
+python-dotenv
+mistralai>=2.1.3
+mplcursors
+
+# Image processing
+opencv-python
+Pillow
+matplotlib
+
+# OCR
+pytesseract
+easyocr
+paddleocr==3.3.3
+paddlepaddle==3.2.2
+python-doctr
+
+# Data
+pandas
+numpy
+spacy
+
+#pdf
+img2pdf 
+pypdfium2
+pdf2image
+pyspellchecker
